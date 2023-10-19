@@ -1,5 +1,5 @@
 {
-  "name": "bun",
+  "name": "Create Your Own Voice Assistant with Node.js, Langchain & Eleven Labs in 9 Minutes",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
